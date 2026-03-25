@@ -1,4 +1,4 @@
-# Aura Farmer 🌾
+# Aura Farmer 🌾 - DISCONTINUED
 
 Aura Farmer is a command-line RPG focused on grinding and resource management. Your goal is to accumulate 'Auras'—the game's currency—by hustling through a variety of activities. From high-risk, high-reward heists to strategic PvP battles, every command is a step towards becoming the wealthiest player.
 
